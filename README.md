@@ -1,0 +1,6 @@
+-Download the zip file and open it through visual studio
+-Open a new terminal and enter "cd backend " - to open backend
+-Enter the command "npm start" to start running the project
+-Open another terminal and open my-app file using " cd my-app "
+-Run the project by entering "npm start "
+-Now project will be start working
