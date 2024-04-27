@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "658d60a59d6f199bbcbfbedd"
+  },
+  "firstname": "Chaturanand",
+  "lastname": "Pandey",
+  "contact": "21452*****",
+  "company": "Amazon Company",
+  "email": "anand02@abx.com",
+  "password": "$2b$10$CMZxuh64Mu.VCEYJYW6KguVlm9PpVGZjcnV2ljyDPwUD/hh3.m7ci",
+  "gender": "Male",
+  "date": {
+    "$date": "2023-12-28T11:48:53.431Z"
+  },
+  "__v": 0,
+  "recruiterimage": "recruiterimage_1703844635685.png",
+  "status": "Accepted"
+},
+{
+  "_id": {
+    "$oid": "6597d5c5cb46700d0834785e"
+  },
+  "firstname": "Aman",
+  "lastname": "Kumar",
+  "contact": "3232345***",
+  "company": "A Company",
+  "email": "aman@abc.com",
+  "password": "$2b$10$6UHEUXmvxKUn25kHaPaI.uKg5IWBYsvrwPA.b5Htv9yXfcBSf7Nx2",
+  "recruiterimage": "recruiterimage_1704542346689.jpeg",
+  "gender": "Male",
+  "date": {
+    "$date": "2024-01-05T10:11:17.240Z"
+  },
+  "__v": 0,
+  "status": "Accepted"
+}]

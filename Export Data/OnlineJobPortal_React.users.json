@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "659e6562d4d82594afced29c"
+  },
+  "firstname": "Amin",
+  "lastname": "Khan",
+  "contact": "1111**2234",
+  "email": "amin02@abc.com",
+  "password": "$2b$10$VUTWq8zDiioP/uuXAMotDuQuTfwT2Li3CBmk5LRgW/jWyFl.d/Xgy",
+  "image": "image_1704879458905.jpg",
+  "gender": "Female",
+  "active": true,
+  "date": {
+    "$date": "2024-01-10T09:37:39.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a6460a678fd7bd63743b89"
+  },
+  "firstname": "mayank",
+  "lastname": "kumar",
+  "contact": "8765342134",
+  "email": "mayank@abc.com",
+  "password": "$2b$10$N3HaZebl3b3D0.tbmTxFyuWARGfXdGN69G59ALH.8yB82Oe3rLaK2",
+  "image": "image_1705396218212.png",
+  "gender": "Male",
+  "active": true,
+  "date": {
+    "$date": "2024-01-16T09:02:02.359Z"
+  },
+  "__v": 0
+}]
